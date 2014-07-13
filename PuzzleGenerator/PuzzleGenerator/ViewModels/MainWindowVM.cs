@@ -8,6 +8,11 @@ namespace PuzzleGenerator.ViewModels
 {
     class MainWindowVM
     {
-        public MainWindowVM() { }
+        public String Text { get; set; }
+
+        public MainWindowVM()
+        {
+            this.Text = "Hello, World!";
+        }
     }
 }
