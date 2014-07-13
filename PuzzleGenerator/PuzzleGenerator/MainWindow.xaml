@@ -9,7 +9,6 @@
                  Height="25"
                  Margin="150,150,150,150"
                  TextWrapping="NoWrap"
-                 Text="TextBox"
                  VerticalAlignment="Center"
                  Width="100"/>
 
