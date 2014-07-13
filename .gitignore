@@ -3,6 +3,8 @@
 *.exe
 obj
 obj/*
+bin
+bin/*
 
 # Misc #
 ########
