@@ -1,0 +1,10 @@
+# Compiled source #
+###################
+*.exe
+obj
+obj/*
+
+# Misc #
+########
+*.suo
+*.user
